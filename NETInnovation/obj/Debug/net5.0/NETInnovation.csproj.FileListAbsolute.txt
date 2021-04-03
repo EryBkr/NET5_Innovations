@@ -1,0 +1,16 @@
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\bin\Debug\net5.0\NETInnovation.exe
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\bin\Debug\net5.0\NETInnovation.deps.json
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\bin\Debug\net5.0\NETInnovation.runtimeconfig.json
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\bin\Debug\net5.0\NETInnovation.runtimeconfig.dev.json
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\bin\Debug\net5.0\NETInnovation.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\bin\Debug\net5.0\ref\NETInnovation.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\bin\Debug\net5.0\NETInnovation.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.csprojAssemblyReference.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.AssemblyInfoInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.AssemblyInfo.cs
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.csproj.CoreCompileInputs.cache
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\ref\NETInnovation.dll
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.pdb
+C:\Users\Blackerback\OneDrive\Masaüstü\NETInnovation\NETInnovation\obj\Debug\net5.0\NETInnovation.genruntimeconfig.cache
